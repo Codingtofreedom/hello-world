@@ -1,2 +1,5 @@
 # hello-world
-just another file
+
+Hello everyone!
+
+just making an edit and  trying to get the hang of this 
